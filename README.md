@@ -4,7 +4,7 @@ I'm a sophomore CS major at the University of Florida working toward a career in
 
 
 ### 🧠 Current Goals:
-- Earn AWS Cloud Practitioner and Solutions Architect Associate certifications
+- Earn AWS Cloud Practitioner and AWS Certified Developer - Associate certifications
 - Build and document 3–5 cloud deployment projects
 - Gain internship experience in cloud or DevOps roles
 
